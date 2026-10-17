@@ -1,0 +1,16 @@
+{
+  "model_name": "GAT",
+  "threshold": 0.9316332340240479,
+  "pr_auc": 0.19680373765268705,
+  "roc_auc": 0.9695359421921923,
+  "f1": 0.33613445378151263,
+  "precision": 0.21052631578947367,
+  "recall": 0.8333333333333334,
+  "true_negatives": 1701,
+  "false_positives": 75,
+  "false_negatives": 4,
+  "true_positives": 20,
+  "total_samples": 1800,
+  "fraud_samples": 24,
+  "fraud_prevalence": 0.013333333333333334
+}

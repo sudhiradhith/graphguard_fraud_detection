@@ -1,0 +1,16 @@
+{
+  "model_name": "GraphSAGE",
+  "threshold": 0.949999988079071,
+  "pr_auc": 0.9965972222222222,
+  "roc_auc": 0.9999530780780781,
+  "f1": 0.9230769230769231,
+  "precision": 0.8571428571428571,
+  "recall": 1.0,
+  "true_negatives": 1772,
+  "false_positives": 4,
+  "false_negatives": 0,
+  "true_positives": 24,
+  "total_samples": 1800,
+  "fraud_samples": 24,
+  "fraud_prevalence": 0.013333333333333334
+}

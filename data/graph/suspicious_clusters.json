@@ -1,0 +1,1717 @@
+[
+  {
+    "entity_id": "DEV_01353",
+    "entity_type": "device",
+    "total_connected_transactions": 74,
+    "fraud_transactions_count": 74,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 126859.64,
+    "connected_fraud_tx_ids": [
+      "TXN_003846",
+      "TXN_003859",
+      "TXN_003971",
+      "TXN_004040",
+      "TXN_004066",
+      "TXN_004170",
+      "TXN_004176",
+      "TXN_004416",
+      "TXN_004458",
+      "TXN_004504",
+      "TXN_004585",
+      "TXN_004634",
+      "TXN_004760",
+      "TXN_004826",
+      "TXN_004838",
+      "TXN_004981",
+      "TXN_004984",
+      "TXN_004986",
+      "TXN_004987",
+      "TXN_004999",
+      "TXN_005121",
+      "TXN_005253",
+      "TXN_005257",
+      "TXN_005344",
+      "TXN_005350",
+      "TXN_005369",
+      "TXN_005511",
+      "TXN_005777",
+      "TXN_005816",
+      "TXN_005844",
+      "TXN_005946",
+      "TXN_005987",
+      "TXN_006192",
+      "TXN_006208",
+      "TXN_006230",
+      "TXN_006232",
+      "TXN_006276",
+      "TXN_006290",
+      "TXN_006331",
+      "TXN_006422",
+      "TXN_006597",
+      "TXN_006634",
+      "TXN_006645",
+      "TXN_006721",
+      "TXN_006806",
+      "TXN_006855",
+      "TXN_006906",
+      "TXN_007024",
+      "TXN_007590",
+      "TXN_007619",
+      "TXN_007623",
+      "TXN_007987",
+      "TXN_007992",
+      "TXN_008006",
+      "TXN_008016",
+      "TXN_008031",
+      "TXN_008205",
+      "TXN_008253",
+      "TXN_008552",
+      "TXN_008616",
+      "TXN_008656",
+      "TXN_008706",
+      "TXN_008719",
+      "TXN_008779",
+      "TXN_008815",
+      "TXN_008840",
+      "TXN_009037",
+      "TXN_009062",
+      "TXN_009183",
+      "TXN_009235",
+      "TXN_009627",
+      "TXN_009658",
+      "TXN_009723",
+      "TXN_009885"
+    ]
+  },
+  {
+    "entity_id": "DEV_00353",
+    "entity_type": "device",
+    "total_connected_transactions": 76,
+    "fraud_transactions_count": 71,
+    "fraud_rate": 0.9342105263157895,
+    "total_fraud_amount": 108243.58,
+    "connected_fraud_tx_ids": [
+      "TXN_003870",
+      "TXN_003910",
+      "TXN_003969",
+      "TXN_004121",
+      "TXN_004163",
+      "TXN_004173",
+      "TXN_004186",
+      "TXN_004240",
+      "TXN_004334",
+      "TXN_004457",
+      "TXN_004587",
+      "TXN_004733",
+      "TXN_004911",
+      "TXN_004944",
+      "TXN_004965",
+      "TXN_004983",
+      "TXN_005144",
+      "TXN_005179",
+      "TXN_005279",
+      "TXN_005380",
+      "TXN_005523",
+      "TXN_005740",
+      "TXN_005808",
+      "TXN_005812",
+      "TXN_005879",
+      "TXN_005997",
+      "TXN_006114",
+      "TXN_006220",
+      "TXN_006222",
+      "TXN_006311",
+      "TXN_006338",
+      "TXN_006416",
+      "TXN_006489",
+      "TXN_006501",
+      "TXN_006534",
+      "TXN_006584",
+      "TXN_006652",
+      "TXN_006809",
+      "TXN_007022",
+      "TXN_007025",
+      "TXN_007479",
+      "TXN_007597",
+      "TXN_007598",
+      "TXN_007599",
+      "TXN_007637",
+      "TXN_007655",
+      "TXN_007914",
+      "TXN_007984",
+      "TXN_008020",
+      "TXN_008029",
+      "TXN_008043",
+      "TXN_008064",
+      "TXN_008171",
+      "TXN_008382",
+      "TXN_008405",
+      "TXN_008682",
+      "TXN_008794",
+      "TXN_008820",
+      "TXN_008835",
+      "TXN_008967",
+      "TXN_009230",
+      "TXN_009241",
+      "TXN_009247",
+      "TXN_009264",
+      "TXN_009553",
+      "TXN_009618",
+      "TXN_009620",
+      "TXN_009630",
+      "TXN_009661",
+      "TXN_009755",
+      "TXN_009913"
+    ]
+  },
+  {
+    "entity_id": "DEV_01172",
+    "entity_type": "device",
+    "total_connected_transactions": 82,
+    "fraud_transactions_count": 65,
+    "fraud_rate": 0.7926829268292683,
+    "total_fraud_amount": 108336.39,
+    "connected_fraud_tx_ids": [
+      "TXN_003825",
+      "TXN_003835",
+      "TXN_003839",
+      "TXN_003842",
+      "TXN_003851",
+      "TXN_003997",
+      "TXN_004038",
+      "TXN_004128",
+      "TXN_004171",
+      "TXN_004175",
+      "TXN_004187",
+      "TXN_004189",
+      "TXN_004539",
+      "TXN_004570",
+      "TXN_004996",
+      "TXN_005006",
+      "TXN_005037",
+      "TXN_005151",
+      "TXN_005389",
+      "TXN_005416",
+      "TXN_005431",
+      "TXN_005457",
+      "TXN_005621",
+      "TXN_005632",
+      "TXN_005728",
+      "TXN_005807",
+      "TXN_005969",
+      "TXN_006150",
+      "TXN_006216",
+      "TXN_006238",
+      "TXN_006272",
+      "TXN_006321",
+      "TXN_006577",
+      "TXN_006610",
+      "TXN_007021",
+      "TXN_007371",
+      "TXN_007383",
+      "TXN_007393",
+      "TXN_007499",
+      "TXN_007621",
+      "TXN_007627",
+      "TXN_007665",
+      "TXN_007950",
+      "TXN_007974",
+      "TXN_008017",
+      "TXN_008370",
+      "TXN_008401",
+      "TXN_008419",
+      "TXN_008423",
+      "TXN_008432",
+      "TXN_008477",
+      "TXN_008561",
+      "TXN_008697",
+      "TXN_008765",
+      "TXN_008805",
+      "TXN_008822",
+      "TXN_009217",
+      "TXN_009258",
+      "TXN_009606",
+      "TXN_009631",
+      "TXN_009652",
+      "TXN_009715",
+      "TXN_009777",
+      "TXN_009792",
+      "TXN_009846"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.221",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 72,
+    "fraud_transactions_count": 64,
+    "fraud_rate": 0.8888888888888888,
+    "total_fraud_amount": 58853.95,
+    "connected_fraud_tx_ids": [
+      "TXN_007034",
+      "TXN_007039",
+      "TXN_007040",
+      "TXN_007046",
+      "TXN_007049",
+      "TXN_007053",
+      "TXN_007057",
+      "TXN_007058",
+      "TXN_007063",
+      "TXN_007071",
+      "TXN_007072",
+      "TXN_007073",
+      "TXN_007075",
+      "TXN_007084",
+      "TXN_007086",
+      "TXN_007088",
+      "TXN_007092",
+      "TXN_007093",
+      "TXN_007095",
+      "TXN_007096",
+      "TXN_007097",
+      "TXN_007098",
+      "TXN_007100",
+      "TXN_007102",
+      "TXN_007110",
+      "TXN_007111",
+      "TXN_007114",
+      "TXN_007115",
+      "TXN_007129",
+      "TXN_007135",
+      "TXN_007138",
+      "TXN_007139",
+      "TXN_007143",
+      "TXN_007144",
+      "TXN_007146",
+      "TXN_007149",
+      "TXN_007155",
+      "TXN_007159",
+      "TXN_007160",
+      "TXN_007163",
+      "TXN_007164",
+      "TXN_007167",
+      "TXN_007168",
+      "TXN_007171",
+      "TXN_007175",
+      "TXN_007176",
+      "TXN_007180",
+      "TXN_007183",
+      "TXN_007184",
+      "TXN_007185",
+      "TXN_007186",
+      "TXN_007188",
+      "TXN_007190",
+      "TXN_007192",
+      "TXN_007193",
+      "TXN_007194",
+      "TXN_007199",
+      "TXN_007202",
+      "TXN_007204",
+      "TXN_007205",
+      "TXN_007208",
+      "TXN_007209",
+      "TXN_007212",
+      "TXN_007214"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.24",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 68,
+    "fraud_transactions_count": 62,
+    "fraud_rate": 0.9117647058823529,
+    "total_fraud_amount": 66920.73,
+    "connected_fraud_tx_ids": [
+      "TXN_005257",
+      "TXN_007033",
+      "TXN_007035",
+      "TXN_007036",
+      "TXN_007038",
+      "TXN_007044",
+      "TXN_007050",
+      "TXN_007051",
+      "TXN_007054",
+      "TXN_007055",
+      "TXN_007064",
+      "TXN_007065",
+      "TXN_007067",
+      "TXN_007068",
+      "TXN_007076",
+      "TXN_007077",
+      "TXN_007078",
+      "TXN_007079",
+      "TXN_007080",
+      "TXN_007081",
+      "TXN_007085",
+      "TXN_007087",
+      "TXN_007089",
+      "TXN_007090",
+      "TXN_007101",
+      "TXN_007103",
+      "TXN_007107",
+      "TXN_007113",
+      "TXN_007116",
+      "TXN_007118",
+      "TXN_007119",
+      "TXN_007121",
+      "TXN_007123",
+      "TXN_007124",
+      "TXN_007126",
+      "TXN_007127",
+      "TXN_007130",
+      "TXN_007131",
+      "TXN_007134",
+      "TXN_007145",
+      "TXN_007148",
+      "TXN_007150",
+      "TXN_007153",
+      "TXN_007154",
+      "TXN_007157",
+      "TXN_007158",
+      "TXN_007162",
+      "TXN_007166",
+      "TXN_007169",
+      "TXN_007173",
+      "TXN_007174",
+      "TXN_007177",
+      "TXN_007178",
+      "TXN_007182",
+      "TXN_007187",
+      "TXN_007191",
+      "TXN_007196",
+      "TXN_007201",
+      "TXN_007203",
+      "TXN_007206",
+      "TXN_007207",
+      "TXN_007213"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.185",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 64,
+    "fraud_transactions_count": 55,
+    "fraud_rate": 0.859375,
+    "total_fraud_amount": 53396.8,
+    "connected_fraud_tx_ids": [
+      "TXN_007032",
+      "TXN_007041",
+      "TXN_007042",
+      "TXN_007043",
+      "TXN_007045",
+      "TXN_007047",
+      "TXN_007052",
+      "TXN_007056",
+      "TXN_007059",
+      "TXN_007060",
+      "TXN_007061",
+      "TXN_007062",
+      "TXN_007066",
+      "TXN_007069",
+      "TXN_007070",
+      "TXN_007074",
+      "TXN_007082",
+      "TXN_007083",
+      "TXN_007091",
+      "TXN_007094",
+      "TXN_007104",
+      "TXN_007105",
+      "TXN_007106",
+      "TXN_007108",
+      "TXN_007109",
+      "TXN_007112",
+      "TXN_007117",
+      "TXN_007120",
+      "TXN_007122",
+      "TXN_007125",
+      "TXN_007128",
+      "TXN_007132",
+      "TXN_007136",
+      "TXN_007137",
+      "TXN_007140",
+      "TXN_007141",
+      "TXN_007142",
+      "TXN_007147",
+      "TXN_007152",
+      "TXN_007156",
+      "TXN_007161",
+      "TXN_007165",
+      "TXN_007170",
+      "TXN_007172",
+      "TXN_007179",
+      "TXN_007181",
+      "TXN_007189",
+      "TXN_007195",
+      "TXN_007197",
+      "TXN_007198",
+      "TXN_007200",
+      "TXN_007210",
+      "TXN_007211",
+      "TXN_007215",
+      "TXN_007216"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.5.211",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 26,
+    "fraud_transactions_count": 14,
+    "fraud_rate": 0.5384615384615384,
+    "total_fraud_amount": 34909.89,
+    "connected_fraud_tx_ids": [
+      "TXN_002717",
+      "TXN_004779",
+      "TXN_005228",
+      "TXN_005426",
+      "TXN_005472",
+      "TXN_007703",
+      "TXN_007719",
+      "TXN_008324",
+      "TXN_008597",
+      "TXN_008833",
+      "TXN_009689",
+      "TXN_010632",
+      "TXN_010683",
+      "TXN_011048"
+    ]
+  },
+  {
+    "entity_id": "DEV_01070",
+    "entity_type": "device",
+    "total_connected_transactions": 35,
+    "fraud_transactions_count": 13,
+    "fraud_rate": 0.37142857142857144,
+    "total_fraud_amount": 30885.62,
+    "connected_fraud_tx_ids": [
+      "TXN_002717",
+      "TXN_004779",
+      "TXN_005228",
+      "TXN_005426",
+      "TXN_005472",
+      "TXN_007703",
+      "TXN_007719",
+      "TXN_008324",
+      "TXN_008597",
+      "TXN_009689",
+      "TXN_010632",
+      "TXN_010683",
+      "TXN_011048"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.5.241",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 28,
+    "fraud_transactions_count": 10,
+    "fraud_rate": 0.35714285714285715,
+    "total_fraud_amount": 28904.22,
+    "connected_fraud_tx_ids": [
+      "TXN_005649",
+      "TXN_005737",
+      "TXN_005905",
+      "TXN_006724",
+      "TXN_008113",
+      "TXN_008538",
+      "TXN_008659",
+      "TXN_008678",
+      "TXN_008706",
+      "TXN_009879"
+    ]
+  },
+  {
+    "entity_id": "DEV_01225",
+    "entity_type": "device",
+    "total_connected_transactions": 30,
+    "fraud_transactions_count": 9,
+    "fraud_rate": 0.3,
+    "total_fraud_amount": 26090.34,
+    "connected_fraud_tx_ids": [
+      "TXN_005649",
+      "TXN_005737",
+      "TXN_005905",
+      "TXN_006724",
+      "TXN_008113",
+      "TXN_008538",
+      "TXN_008659",
+      "TXN_008678",
+      "TXN_009879"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.160",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 25,
+    "fraud_transactions_count": 8,
+    "fraud_rate": 0.32,
+    "total_fraud_amount": 20759.75,
+    "connected_fraud_tx_ids": [
+      "TXN_001958",
+      "TXN_004944",
+      "TXN_007599",
+      "TXN_007749",
+      "TXN_008073",
+      "TXN_008641",
+      "TXN_008911",
+      "TXN_009966"
+    ]
+  },
+  {
+    "entity_id": "DEV_00128",
+    "entity_type": "device",
+    "total_connected_transactions": 24,
+    "fraud_transactions_count": 8,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 23646.54,
+    "connected_fraud_tx_ids": [
+      "TXN_002594",
+      "TXN_003555",
+      "TXN_004541",
+      "TXN_005582",
+      "TXN_006905",
+      "TXN_007923",
+      "TXN_010516",
+      "TXN_010968"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.143",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 37,
+    "fraud_transactions_count": 8,
+    "fraud_rate": 0.21621621621621623,
+    "total_fraud_amount": 17505.39,
+    "connected_fraud_tx_ids": [
+      "TXN_002825",
+      "TXN_004991",
+      "TXN_006491",
+      "TXN_006581",
+      "TXN_007287",
+      "TXN_008632",
+      "TXN_009710",
+      "TXN_010614"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.97",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 19,
+    "fraud_transactions_count": 8,
+    "fraud_rate": 0.42105263157894735,
+    "total_fraud_amount": 23646.54,
+    "connected_fraud_tx_ids": [
+      "TXN_002594",
+      "TXN_003555",
+      "TXN_004541",
+      "TXN_005582",
+      "TXN_006905",
+      "TXN_007923",
+      "TXN_010516",
+      "TXN_010968"
+    ]
+  },
+  {
+    "entity_id": "DEV_01397",
+    "entity_type": "device",
+    "total_connected_transactions": 18,
+    "fraud_transactions_count": 7,
+    "fraud_rate": 0.3888888888888889,
+    "total_fraud_amount": 19125.17,
+    "connected_fraud_tx_ids": [
+      "TXN_002327",
+      "TXN_004801",
+      "TXN_005312",
+      "TXN_007094",
+      "TXN_008095",
+      "TXN_008881",
+      "TXN_011169"
+    ]
+  },
+  {
+    "entity_id": "DEV_00056",
+    "entity_type": "device",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 7,
+    "fraud_rate": 0.5384615384615384,
+    "total_fraud_amount": 15824.119999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_002825",
+      "TXN_006491",
+      "TXN_006581",
+      "TXN_007287",
+      "TXN_008632",
+      "TXN_009710",
+      "TXN_010614"
+    ]
+  },
+  {
+    "entity_id": "DEV_00748",
+    "entity_type": "device",
+    "total_connected_transactions": 35,
+    "fraud_transactions_count": 6,
+    "fraud_rate": 0.17142857142857143,
+    "total_fraud_amount": 16658.71,
+    "connected_fraud_tx_ids": [
+      "TXN_001958",
+      "TXN_007749",
+      "TXN_008073",
+      "TXN_008641",
+      "TXN_008911",
+      "TXN_009966"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.98",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 20,
+    "fraud_transactions_count": 6,
+    "fraud_rate": 0.3,
+    "total_fraud_amount": 18890.64,
+    "connected_fraud_tx_ids": [
+      "TXN_002327",
+      "TXN_004801",
+      "TXN_005312",
+      "TXN_008095",
+      "TXN_008881",
+      "TXN_011169"
+    ]
+  },
+  {
+    "entity_id": "DEV_00900",
+    "entity_type": "device",
+    "total_connected_transactions": 18,
+    "fraud_transactions_count": 6,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 17820.55,
+    "connected_fraud_tx_ids": [
+      "TXN_005663",
+      "TXN_006539",
+      "TXN_007297",
+      "TXN_007540",
+      "TXN_009337",
+      "TXN_010086"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.152",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 6,
+    "fraud_rate": 0.5454545454545454,
+    "total_fraud_amount": 15039.94,
+    "connected_fraud_tx_ids": [
+      "TXN_002179",
+      "TXN_006154",
+      "TXN_006396",
+      "TXN_007328",
+      "TXN_008656",
+      "TXN_011199"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.112",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 6,
+    "fraud_rate": 0.46153846153846156,
+    "total_fraud_amount": 17820.55,
+    "connected_fraud_tx_ids": [
+      "TXN_005663",
+      "TXN_006539",
+      "TXN_007297",
+      "TXN_007540",
+      "TXN_009337",
+      "TXN_010086"
+    ]
+  },
+  {
+    "entity_id": "DEV_00763",
+    "entity_type": "device",
+    "total_connected_transactions": 25,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.2,
+    "total_fraud_amount": 13060.46,
+    "connected_fraud_tx_ids": [
+      "TXN_003341",
+      "TXN_004400",
+      "TXN_004649",
+      "TXN_008068",
+      "TXN_011085"
+    ]
+  },
+  {
+    "entity_id": "DEV_00831",
+    "entity_type": "device",
+    "total_connected_transactions": 20,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.25,
+    "total_fraud_amount": 13387.52,
+    "connected_fraud_tx_ids": [
+      "TXN_002179",
+      "TXN_006154",
+      "TXN_006396",
+      "TXN_007328",
+      "TXN_011199"
+    ]
+  },
+  {
+    "entity_id": "DEV_01014",
+    "entity_type": "device",
+    "total_connected_transactions": 17,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.29411764705882354,
+    "total_fraud_amount": 14297.130000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_003351",
+      "TXN_004353",
+      "TXN_006787",
+      "TXN_007398",
+      "TXN_007919"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.62",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.45454545454545453,
+    "total_fraud_amount": 14297.130000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_003351",
+      "TXN_004353",
+      "TXN_006787",
+      "TXN_007398",
+      "TXN_007919"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.89",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 19,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.2631578947368421,
+    "total_fraud_amount": 10940.33,
+    "connected_fraud_tx_ids": [
+      "TXN_006069",
+      "TXN_006534",
+      "TXN_009500",
+      "TXN_009525",
+      "TXN_009706"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.254",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 16,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.3125,
+    "total_fraud_amount": 13060.46,
+    "connected_fraud_tx_ids": [
+      "TXN_003341",
+      "TXN_004400",
+      "TXN_004649",
+      "TXN_008068",
+      "TXN_011085"
+    ]
+  },
+  {
+    "entity_id": "DEV_00919",
+    "entity_type": "device",
+    "total_connected_transactions": 21,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.23809523809523808,
+    "total_fraud_amount": 11636.72,
+    "connected_fraud_tx_ids": [
+      "TXN_003017",
+      "TXN_004991",
+      "TXN_005198",
+      "TXN_007707",
+      "TXN_008907"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.134",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 18,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.2777777777777778,
+    "total_fraud_amount": 15452.41,
+    "connected_fraud_tx_ids": [
+      "TXN_004041",
+      "TXN_004914",
+      "TXN_006035",
+      "TXN_009969",
+      "TXN_010596"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.62",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 24,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.20833333333333334,
+    "total_fraud_amount": 14972.67,
+    "connected_fraud_tx_ids": [
+      "TXN_002897",
+      "TXN_005380",
+      "TXN_007290",
+      "TXN_010262",
+      "TXN_010931"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.19",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.4166666666666667,
+    "total_fraud_amount": 16022.1,
+    "connected_fraud_tx_ids": [
+      "TXN_002045",
+      "TXN_002319",
+      "TXN_003239",
+      "TXN_005585",
+      "TXN_009382"
+    ]
+  },
+  {
+    "entity_id": "DEV_00457",
+    "entity_type": "device",
+    "total_connected_transactions": 15,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 16022.1,
+    "connected_fraud_tx_ids": [
+      "TXN_002045",
+      "TXN_002319",
+      "TXN_003239",
+      "TXN_005585",
+      "TXN_009382"
+    ]
+  },
+  {
+    "entity_id": "DEV_00266",
+    "entity_type": "device",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 5,
+    "fraud_rate": 0.5,
+    "total_fraud_amount": 15452.41,
+    "connected_fraud_tx_ids": [
+      "TXN_004041",
+      "TXN_004914",
+      "TXN_006035",
+      "TXN_009969",
+      "TXN_010596"
+    ]
+  },
+  {
+    "entity_id": "DEV_00552",
+    "entity_type": "device",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.36363636363636365,
+    "total_fraud_amount": 16686.09,
+    "connected_fraud_tx_ids": [
+      "TXN_002204",
+      "TXN_002429",
+      "TXN_003973",
+      "TXN_011113"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.143",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 30,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.13333333333333333,
+    "total_fraud_amount": 16686.09,
+    "connected_fraud_tx_ids": [
+      "TXN_002204",
+      "TXN_002429",
+      "TXN_003973",
+      "TXN_011113"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.17",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 26,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.15384615384615385,
+    "total_fraud_amount": 5882.82,
+    "connected_fraud_tx_ids": [
+      "TXN_002121",
+      "TXN_005613",
+      "TXN_006925",
+      "TXN_008205"
+    ]
+  },
+  {
+    "entity_id": "DEV_01401",
+    "entity_type": "device",
+    "total_connected_transactions": 17,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.23529411764705882,
+    "total_fraud_amount": 6759.150000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_002121",
+      "TXN_004993",
+      "TXN_005613",
+      "TXN_006925"
+    ]
+  },
+  {
+    "entity_id": "DEV_01060",
+    "entity_type": "device",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.3076923076923077,
+    "total_fraud_amount": 10068.24,
+    "connected_fraud_tx_ids": [
+      "TXN_003200",
+      "TXN_004916",
+      "TXN_006552",
+      "TXN_010770"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.125",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 23,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.17391304347826086,
+    "total_fraud_amount": 10068.24,
+    "connected_fraud_tx_ids": [
+      "TXN_003200",
+      "TXN_004916",
+      "TXN_006552",
+      "TXN_010770"
+    ]
+  },
+  {
+    "entity_id": "DEV_00884",
+    "entity_type": "device",
+    "total_connected_transactions": 23,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.17391304347826086,
+    "total_fraud_amount": 11093.4,
+    "connected_fraud_tx_ids": [
+      "TXN_003930",
+      "TXN_005666",
+      "TXN_007935",
+      "TXN_011170"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.121",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 11093.4,
+    "connected_fraud_tx_ids": [
+      "TXN_003930",
+      "TXN_005666",
+      "TXN_007935",
+      "TXN_011170"
+    ]
+  },
+  {
+    "entity_id": "DEV_01383",
+    "entity_type": "device",
+    "total_connected_transactions": 27,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.14814814814814814,
+    "total_fraud_amount": 13804.130000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_002897",
+      "TXN_007290",
+      "TXN_010262",
+      "TXN_010931"
+    ]
+  },
+  {
+    "entity_id": "DEV_00141",
+    "entity_type": "device",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.4,
+    "total_fraud_amount": 11658.94,
+    "connected_fraud_tx_ids": [
+      "TXN_002091",
+      "TXN_002721",
+      "TXN_007439",
+      "TXN_011083"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.176",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.3076923076923077,
+    "total_fraud_amount": 11658.94,
+    "connected_fraud_tx_ids": [
+      "TXN_002091",
+      "TXN_002721",
+      "TXN_007439",
+      "TXN_011083"
+    ]
+  },
+  {
+    "entity_id": "DEV_00547",
+    "entity_type": "device",
+    "total_connected_transactions": 17,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.23529411764705882,
+    "total_fraud_amount": 9612.94,
+    "connected_fraud_tx_ids": [
+      "TXN_006069",
+      "TXN_009500",
+      "TXN_009525",
+      "TXN_009706"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.246",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 8,
+    "fraud_transactions_count": 4,
+    "fraud_rate": 0.5,
+    "total_fraud_amount": 9955.449999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_003017",
+      "TXN_005198",
+      "TXN_007707",
+      "TXN_008907"
+    ]
+  },
+  {
+    "entity_id": "DEV_01177",
+    "entity_type": "device",
+    "total_connected_transactions": 24,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 0.125,
+    "total_fraud_amount": 11527.369999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_004550",
+      "TXN_007960",
+      "TXN_008677"
+    ]
+  },
+  {
+    "entity_id": "DEV_00156",
+    "entity_type": "device",
+    "total_connected_transactions": 5,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 0.6,
+    "total_fraud_amount": 11497.31,
+    "connected_fraud_tx_ids": [
+      "TXN_003933",
+      "TXN_007823",
+      "TXN_010080"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.182",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 0.25,
+    "total_fraud_amount": 11497.31,
+    "connected_fraud_tx_ids": [
+      "TXN_003933",
+      "TXN_007823",
+      "TXN_010080"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.40",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 0.3,
+    "total_fraud_amount": 11527.369999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_004550",
+      "TXN_007960",
+      "TXN_008677"
+    ]
+  },
+  {
+    "entity_id": "DEV_00044",
+    "entity_type": "device",
+    "total_connected_transactions": 4,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 0.75,
+    "total_fraud_amount": 2858.91,
+    "connected_fraud_tx_ids": [
+      "TXN_007126",
+      "TXN_007140",
+      "TXN_007218"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.230",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 3,
+    "fraud_transactions_count": 3,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 4752.78,
+    "connected_fraud_tx_ids": [
+      "TXN_003825",
+      "TXN_006150",
+      "TXN_006331"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.114",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.15384615384615385,
+    "total_fraud_amount": 5203.83,
+    "connected_fraud_tx_ids": [
+      "TXN_007974",
+      "TXN_009062"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.84",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 48,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.041666666666666664,
+    "total_fraud_amount": 4281.639999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_005361",
+      "TXN_008820"
+    ]
+  },
+  {
+    "entity_id": "DEV_00470",
+    "entity_type": "device",
+    "total_connected_transactions": 9,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2222222222222222,
+    "total_fraud_amount": 1677.85,
+    "connected_fraud_tx_ids": [
+      "TXN_007169",
+      "TXN_007177"
+    ]
+  },
+  {
+    "entity_id": "DEV_01077",
+    "entity_type": "device",
+    "total_connected_transactions": 20,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.1,
+    "total_fraud_amount": 3366.81,
+    "connected_fraud_tx_ids": [
+      "TXN_005361",
+      "TXN_007089"
+    ]
+  },
+  {
+    "entity_id": "DEV_00769",
+    "entity_type": "device",
+    "total_connected_transactions": 15,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.13333333333333333,
+    "total_fraud_amount": 2082.85,
+    "connected_fraud_tx_ids": [
+      "TXN_006655",
+      "TXN_007082"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.209",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.16666666666666666,
+    "total_fraud_amount": 3127.4500000000003,
+    "connected_fraud_tx_ids": [
+      "TXN_005006",
+      "TXN_008822"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.111",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 8,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.25,
+    "total_fraud_amount": 2931.34,
+    "connected_fraud_tx_ids": [
+      "TXN_008552",
+      "TXN_009658"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.125",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 15,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.13333333333333333,
+    "total_fraud_amount": 4242.17,
+    "connected_fraud_tx_ids": [
+      "TXN_003839",
+      "TXN_003997"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.143",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 25,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.08,
+    "total_fraud_amount": 4203.67,
+    "connected_fraud_tx_ids": [
+      "TXN_005350",
+      "TXN_011103"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.5.180",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 22,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.09090909090909091,
+    "total_fraud_amount": 4203.08,
+    "connected_fraud_tx_ids": [
+      "TXN_003842",
+      "TXN_006855"
+    ]
+  },
+  {
+    "entity_id": "DEV_00246",
+    "entity_type": "device",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.18181818181818182,
+    "total_fraud_amount": 4514.78,
+    "connected_fraud_tx_ids": [
+      "TXN_007066",
+      "TXN_008012"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.139",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.16666666666666666,
+    "total_fraud_amount": 7659.5,
+    "connected_fraud_tx_ids": [
+      "TXN_004171",
+      "TXN_004978"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.3.127",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 18,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.1111111111111111,
+    "total_fraud_amount": 6480.960000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_004334",
+      "TXN_006654"
+    ]
+  },
+  {
+    "entity_id": "DEV_01068",
+    "entity_type": "device",
+    "total_connected_transactions": 6,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 2000.6100000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_007092",
+      "TXN_007103"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.86",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 15,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.13333333333333333,
+    "total_fraud_amount": 5165.51,
+    "connected_fraud_tx_ids": [
+      "TXN_006577",
+      "TXN_009247"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.178",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.15384615384615385,
+    "total_fraud_amount": 5975.700000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_004240",
+      "TXN_007626"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.159",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 18,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.1111111111111111,
+    "total_fraud_amount": 5247.610000000001,
+    "connected_fraud_tx_ids": [
+      "TXN_004175",
+      "TXN_004990"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.213",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 15,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.13333333333333333,
+    "total_fraud_amount": 6092.3099999999995,
+    "connected_fraud_tx_ids": [
+      "TXN_005357",
+      "TXN_008007"
+    ]
+  },
+  {
+    "entity_id": "DEV_00474",
+    "entity_type": "device",
+    "total_connected_transactions": 20,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.1,
+    "total_fraud_amount": 4179.12,
+    "connected_fraud_tx_ids": [
+      "TXN_007132",
+      "TXN_010872"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.6.62",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.18181818181818182,
+    "total_fraud_amount": 2964.06,
+    "connected_fraud_tx_ids": [
+      "TXN_004986",
+      "TXN_006501"
+    ]
+  },
+  {
+    "entity_id": "DEV_00139",
+    "entity_type": "device",
+    "total_connected_transactions": 6,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 6371.879999999999,
+    "connected_fraud_tx_ids": [
+      "TXN_006229",
+      "TXN_007068"
+    ]
+  },
+  {
+    "entity_id": "DEV_01288",
+    "entity_type": "device",
+    "total_connected_transactions": 12,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.16666666666666666,
+    "total_fraud_amount": 4499.74,
+    "connected_fraud_tx_ids": [
+      "TXN_006642",
+      "TXN_007049"
+    ]
+  },
+  {
+    "entity_id": "DEV_00157",
+    "entity_type": "device",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2,
+    "total_fraud_amount": 2116.02,
+    "connected_fraud_tx_ids": [
+      "TXN_007057",
+      "TXN_007064"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.240",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.18181818181818182,
+    "total_fraud_amount": 4069.0,
+    "connected_fraud_tx_ids": [
+      "TXN_006721",
+      "TXN_007619"
+    ]
+  },
+  {
+    "entity_id": "DEV_00636",
+    "entity_type": "device",
+    "total_connected_transactions": 7,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2857142857142857,
+    "total_fraud_amount": 2048.15,
+    "connected_fraud_tx_ids": [
+      "TXN_007181",
+      "TXN_007199"
+    ]
+  },
+  {
+    "entity_id": "DEV_00913",
+    "entity_type": "device",
+    "total_connected_transactions": 8,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.25,
+    "total_fraud_amount": 1121.75,
+    "connected_fraud_tx_ids": [
+      "TXN_007067",
+      "TXN_007069"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.76",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 13,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.15384615384615385,
+    "total_fraud_amount": 2000.51,
+    "connected_fraud_tx_ids": [
+      "TXN_004984",
+      "TXN_008432"
+    ]
+  },
+  {
+    "entity_id": "DEV_01096",
+    "entity_type": "device",
+    "total_connected_transactions": 14,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.14285714285714285,
+    "total_fraud_amount": 6339.97,
+    "connected_fraud_tx_ids": [
+      "TXN_006235",
+      "TXN_007045"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.3.138",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 7,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2857142857142857,
+    "total_fraud_amount": 3327.87,
+    "connected_fraud_tx_ids": [
+      "TXN_005279",
+      "TXN_007025"
+    ]
+  },
+  {
+    "entity_id": "DEV_01343",
+    "entity_type": "device",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.18181818181818182,
+    "total_fraud_amount": 4236.55,
+    "connected_fraud_tx_ids": [
+      "TXN_007100",
+      "TXN_008415"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.126",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 7,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2857142857142857,
+    "total_fraud_amount": 3238.05,
+    "connected_fraud_tx_ids": [
+      "TXN_007218",
+      "TXN_007598"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.3.83",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2,
+    "total_fraud_amount": 3452.41,
+    "connected_fraud_tx_ids": [
+      "TXN_006338",
+      "TXN_006597"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.1.64",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 7,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2857142857142857,
+    "total_fraud_amount": 3327.3199999999997,
+    "connected_fraud_tx_ids": [
+      "TXN_003910",
+      "TXN_006653"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.5.104",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 7,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2857142857142857,
+    "total_fraud_amount": 3782.35,
+    "connected_fraud_tx_ids": [
+      "TXN_006422",
+      "TXN_008794"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.0.193",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 2,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 3106.27,
+    "connected_fraud_tx_ids": [
+      "TXN_003846",
+      "TXN_009620"
+    ]
+  },
+  {
+    "entity_id": "DEV_00827",
+    "entity_type": "device",
+    "total_connected_transactions": 11,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.18181818181818182,
+    "total_fraud_amount": 3994.87,
+    "connected_fraud_tx_ids": [
+      "TXN_006650",
+      "TXN_007164"
+    ]
+  },
+  {
+    "entity_id": "DEV_01424",
+    "entity_type": "device",
+    "total_connected_transactions": 3,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.6666666666666666,
+    "total_fraud_amount": 5768.52,
+    "connected_fraud_tx_ids": [
+      "TXN_007165",
+      "TXN_009640"
+    ]
+  },
+  {
+    "entity_id": "DEV_00974",
+    "entity_type": "device",
+    "total_connected_transactions": 6,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 1362.27,
+    "connected_fraud_tx_ids": [
+      "TXN_007083",
+      "TXN_007105"
+    ]
+  },
+  {
+    "entity_id": "DEV_01433",
+    "entity_type": "device",
+    "total_connected_transactions": 10,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.2,
+    "total_fraud_amount": 2837.69,
+    "connected_fraud_tx_ids": [
+      "TXN_007056",
+      "TXN_011103"
+    ]
+  },
+  {
+    "entity_id": "DEV_00964",
+    "entity_type": "device",
+    "total_connected_transactions": 8,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.25,
+    "total_fraud_amount": 819.88,
+    "connected_fraud_tx_ids": [
+      "TXN_007123",
+      "TXN_007179"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.4.238",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 2,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 3210.23,
+    "connected_fraud_tx_ids": [
+      "TXN_005621",
+      "TXN_007590"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.110",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 2,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 3189.6400000000003,
+    "connected_fraud_tx_ids": [
+      "TXN_005777",
+      "TXN_008016"
+    ]
+  },
+  {
+    "entity_id": "DEV_00762",
+    "entity_type": "device",
+    "total_connected_transactions": 6,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.3333333333333333,
+    "total_fraud_amount": 7372.17,
+    "connected_fraud_tx_ids": [
+      "TXN_005800",
+      "TXN_006654"
+    ]
+  },
+  {
+    "entity_id": "IP_192.168.2.219",
+    "entity_type": "ip_address",
+    "total_connected_transactions": 3,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 0.6666666666666666,
+    "total_fraud_amount": 2021.2200000000003,
+    "connected_fraud_tx_ids": [
+      "TXN_005969",
+      "TXN_010867"
+    ]
+  },
+  {
+    "entity_id": "DEV_01317",
+    "entity_type": "device",
+    "total_connected_transactions": 2,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 1797.66,
+    "connected_fraud_tx_ids": [
+      "TXN_007050",
+      "TXN_007209"
+    ]
+  },
+  {
+    "entity_id": "DEV_01243",
+    "entity_type": "device",
+    "total_connected_transactions": 2,
+    "fraud_transactions_count": 2,
+    "fraud_rate": 1.0,
+    "total_fraud_amount": 1642.24,
+    "connected_fraud_tx_ids": [
+      "TXN_007051",
+      "TXN_007185"
+    ]
+  }
+]

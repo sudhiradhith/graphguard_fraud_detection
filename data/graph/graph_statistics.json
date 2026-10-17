@@ -1,0 +1,33 @@
+{
+  "heterogeneous_nodes": {
+    "transaction": 11998,
+    "customer": 1795,
+    "device": 1306,
+    "ip_address": 1452,
+    "merchant": 480
+  },
+  "heterogeneous_total_nodes": 17031,
+  "heterogeneous_total_edges": 47992,
+  "heterogeneous_connected_components": 1,
+  "heterogeneous_largest_component_size": 17031,
+  "tx_graph_nodes": 11998,
+  "tx_graph_edges": 282350,
+  "degree_mean": 23.53308868408203,
+  "degree_std": 12.056931495666504,
+  "degree_median": 22.0,
+  "degree_max": 103,
+  "degree_min": 1,
+  "isolated_nodes_count": 0,
+  "isolated_nodes_pct": 0.0,
+  "graph_density": 0.0019615811326282703,
+  "edge_homophily": 0.9202054188064459,
+  "fraud_fraud_edges": 13756,
+  "fraud_fraud_edge_pct": 0.04871967416327253,
+  "degree_percentiles": {
+    "p25": 15.0,
+    "p50": 22.0,
+    "p75": 29.0,
+    "p90": 37.0,
+    "p99": 67.0
+  }
+}
